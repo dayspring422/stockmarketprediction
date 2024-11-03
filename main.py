@@ -1,6 +1,5 @@
 import streamlit as st
 import datetime as date
-
 import yfinance as yf
 from prophet import Prophet
 from prophet.plot import plot_plotly
@@ -103,4 +102,3 @@ st.write("""
 # Creator information
 st.markdown("---")
 st.write("Developed by Dayspring Idahosa")
-
