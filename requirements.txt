@@ -1,4 +1,7 @@
 streamlit
 yfinance
-prophet
+prophet==1.1.5
 plotly
+pandas
+numpy<2.0
+cmdstanpy==1.2.2
